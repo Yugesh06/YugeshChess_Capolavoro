@@ -25,6 +25,9 @@ Whether you're testing your skills with a friend on the same PC or just explorin
 
 - 🎨 **Customizable Piece Designs**  
   Want a unique look? Just drop your own image set into the `/assets` folder after cloning the repo — no extra steps needed.
+---
+
+![Demo](whitew_mate.gif)
 
 ---
 
